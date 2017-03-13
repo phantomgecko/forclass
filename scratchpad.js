@@ -19,12 +19,8 @@ function tribo(n){
   return tribo(n-1)+tribo(n-2)+tribo(n-3);
 }
 
-var fibo = document.createElement("P");                       // Create a <p> element                                        // Append the text to <p>
-document.body.appendChild(para);
-
 document.write("The 11th number of the Fibonacci sequence: ");
-document.getElementById("fibo").innerHTML = fibonacci(11);
-//document.write(fibonacci(11));
+document.write(fibonacci(11));
 
 document.write("\rThe 11th number of the Pell sequence: ");
 document.write(pell(11));
