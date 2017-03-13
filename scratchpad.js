@@ -25,3 +25,7 @@ document.write(pell(11));
 
 document.write("\rThe 11th number of the Tribonacci sequence: ");
 document.write(tribo(11));
+
+
+//tbh i'm aware this work is garbage town, but i have no idea what or how you are actually asking
+//and, tbh, i forgot about this assignment until half an hour ago, and it's due tonight so, i guess i'll just take the crap grade
