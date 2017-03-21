@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+}
+
+div{
+  display: inline-block;
+  width:200px;
+  margin-top: 10px;
+}
+
+p{
+  color: white;
+}
